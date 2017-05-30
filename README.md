@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Login
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# login-angular-guard
+login in angular 2 with route and guard
+>>>>>>> a83875a45ee873c89f95cd45510780477b42ec32
